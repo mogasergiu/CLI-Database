@@ -2,7 +2,7 @@
 CLI Program that simulates the functionality of a Database. It reads commands
 from the CLI and stores the data using linked lists.
 
-Available commands:<br />
+**Available commands**:<br />
 For Data Definitions:<br />
 - INIT_DB <name> - will initialize the database with the given name
 - DELETE_DB - will delete the database and free the allocated memory
