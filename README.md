@@ -25,12 +25,12 @@ Available commands:
 
 Usage example:
 Input:
-INIT_DB Parking_Lot
-CREATE Cars STRING Brand License_Plate
-ADD Cars Ford ABC-123
-ADD Cars Dacia DEF-456
-PRINT Cars
-DELETE_DB
+INIT_DB Parking_Lot<br />
+CREATE Cars STRING Brand License_Plate<br />
+ADD Cars Ford ABC-123<br />
+ADD Cars Dacia DEF-456<br />
+PRINT Cars<br />
+DELETE_DB<br />
 
 Output: <br />
 TABLE: Cars <br />
