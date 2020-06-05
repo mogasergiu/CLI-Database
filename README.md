@@ -32,9 +32,9 @@ ADD Cars Dacia DEF-456
 PRINT Cars
 DELETE_DB
 
-Output:
-TABLE: Cars
-Brand                        License_Plate
-............................ .............................
-Ford                         ABC-123
-Dacia                        DEF-456
+Output: <br />
+TABLE: Cars <br />
+Brand&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;License_Plate <br />
+............................ .............................<br />
+Ford&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABC-123<br />
+Dacia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DEF-456<br />
