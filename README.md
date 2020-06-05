@@ -1,6 +1,6 @@
 # CLI-Database
 CLI Program that simulates the functionality of a Database. It reads commands
-from the CLI and stores the data.
+from the CLI and stores the data using linked lists.
 
 Available commands:<br />
 For Data Definitions:<br />
