@@ -23,8 +23,8 @@ Available commands:
 - CLEAR <table_name> - clears the contents of the specified table, leaving only
   its name and columns
 
-Usage example:
-Input:
+Usage example:<br />
+Input:<br />
 INIT_DB Parking_Lot<br />
 CREATE Cars STRING Brand License_Plate<br />
 ADD Cars Ford ABC-123<br />
