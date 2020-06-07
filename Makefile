@@ -1,9 +1,8 @@
 CC = gcc
 COPTION = -g -Wall -Werror -Wextra
 
-build: tema1
-
-tema1: struct_utils.o intElem.o stringElem.o floatElem.o main.o
+build: CLID
+CLID: struct_utils.o intElem.o stringElem.o floatElem.o main.o
 	$(CC) $(COPTION) $^ -o $@
 
 main.o: main.c
@@ -21,8 +20,8 @@ floatElem.o: floatElem.c
 stringElem.o: stringElem.c
 	$(CC) $(COPTION) -c $^
 
-run: tema1
-	./tema1
+run: CLID
+	./CLID
 
 clean:
-	rm tema1 *.o
+	rm CLID *.o
